@@ -38,7 +38,7 @@
 <br />
 <br />
 
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/officersiam/officersiam/master/watermark5.png" />][website]
+[<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/officersiam/officersiam/master/watermark5.png" />][website]
 
 [website]: https://hasheon.com
 [twitter]: https://twitter.com/OfficerSiam
