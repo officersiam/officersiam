@@ -12,10 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hasheon.com" width="22px" src="https://raw.githubusercontent.com/officersiam/officersiam/master/ico-6.1.png" />][website]
+[<img align="left" alt="hasheon.com" width="22px" src="https://github.com/officersiam/officersiam/blob/master/ico-6.png?raw=true" />][website]
 [<img align="left" alt="Hasheon | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
-[<img align="left" alt="OfficerSiam | YouTube" width="22px" src="https://raw.githubusercontent.com/officersiam/officersiam/master/download.png" />][youtube]
-[<img align="left" alt="OfficerSiam | Twtiter" width="22px" src="https://raw.githubusercontent.com/officersiam/officersiam/master/tw.png" />][twitter]
+[<img align="left" alt="OfficerSiam | YouTube" width="22px" src="https://github.com/officersiam/officersiam/blob/master/yt.png?raw=true" />][youtube]
+[<img align="left" alt="OfficerSiam | Twtiter" width="22px" src="https://github.com/officersiam/officersiam/blob/master/tw.jpg?raw=true" />][twitter]
 [<img align="left" alt="OfficerSiam | Instagram" width="22px" src="https://raw.githubusercontent.com/officersiam/officersiam/master/is.jpg" />][instagram]
 [<img align="left" alt="Siam Al Mahmud | Linked in" width="22px" src="https://raw.githubusercontent.com/officersiam/officersiam/master/li.png" />][linkedin]
 
