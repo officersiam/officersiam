@@ -1,14 +1,15 @@
-### Hi there, I'm Siam Al Mahmud. Chairman & CEO at [Hasheon][website] 👋
+### Siam Al Mahmud. Chairman & CEO at [Hasheon][website] 👋
 
 [![Website](https://shields.io/badge/Hasheon.com-Online-1DA1F2?style=for-the-badge)](https://hasheon.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OfficerSiam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOfficerSiam&screen_name=OfficerSiam)
 
-## I'm a Web Designer, Developer, Graphics Designer, Musician, Artist, Writter, Recitation and Presenter!!
+## Web Designer, Developer, Graphics Designer, Musician, Artist, Writter, Recitation and Presenter!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other to contribute my knowledge
+- 🌱 Currently learning everything
+- 💖 Looking to collaborate with other to contribute knowledge
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to  play guitar / drums / harmonium / flute
+- ⚡ Fun fact: Siam love to  play guitar / drums / harmonium / flute
+- 🔥 Working Since 2009
 
 ### Connect with me:
 
