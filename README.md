@@ -5,13 +5,13 @@
 
 ## Web Designer, Developer, Graphics Designer, Musician, Artist, Writter, Recitation and Presenter!!
 
-- 🌱 Currently learning everything
+- 🌱 Love to learn every new thing
 - 💖 Looking to collaborate with other to contribute knowledge
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Siam love to  play guitar / drums / harmonium / flute
 - 🔥 Working Since 2009
 
-### Connect with me:
+### Connect with siam:
 
 [<img align="left" alt="hasheon.com" width="22px" src="https://github.com/officersiam/officersiam/blob/master/ico-6.png?raw=true" />][website]
 [<img align="left" alt="Hasheon | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
