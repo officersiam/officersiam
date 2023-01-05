@@ -1,7 +1,4 @@
-### Siam Al Mahmud. <br/>Chairman & CEO at [Hasheon][website] 💖💖
-
-[![Website](https://shields.io/badge/Hasheon.com-Online-1DA1F2?style=for-the-badge)](https://hasheon.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/OfficerSiam?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FOfficerSiam&screen_name=OfficerSiam)
+### Siam Al Mahmud. <br/>Chairman & CEO at [Hasheon Group][website]
 
 ## Web Designer, Developer, Graphics Designer, Musician, Artist, Writter, Recitation and Presenter!!
 
@@ -42,7 +39,7 @@
 
 [<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/officersiam/officersiam/master/watermark5.png" />][website]
 
-[website]: https://hasheon.com
+[website]: https://biratbazar.com
 [facebook]: https://facebook.com/Hasheon
 [twitter]: https://twitter.com/OfficerSiam
 [youtube]: https://youtube.com/SiamAlMahmud
