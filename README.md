@@ -1,4 +1,4 @@
-### Siam Al Mahmud. <br/>Chairman & CEO at [Hasheon Group][website]
+### Siam Al Mahmud. <br/>Chairman & CEO at [Birat Bazar][website]
 
 ## Web Designer, Developer, Graphics Designer, Musician, Artist, Writter, Recitation and Presenter!!
 
@@ -10,7 +10,7 @@
 
 ### Connect with siam:
 
-[<img align="left" alt="hasheon.com" width="22px" src="https://github.com/officersiam/officersiam/blob/master/ico-6.png?raw=true" />][website]
+[<img align="left" alt="biratbazar.com" width="22px" src="https://github.com/officersiam/officersiam/blob/master/ico-6.png?raw=true" />][website]
 [<img align="left" alt="Hasheon | Facebook" width="22px" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=512&h=512" />][facebook]
 [<img align="left" alt="OfficerSiam | YouTube" width="22px" src="https://github.com/officersiam/officersiam/blob/master/yt.png?raw=true" />][youtube]
 [<img align="left" alt="OfficerSiam | Twtiter" width="22px" src="https://github.com/officersiam/officersiam/blob/master/tw.jpg?raw=true" />][twitter]
