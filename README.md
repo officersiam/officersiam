@@ -34,14 +34,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 
 
-<br />
-<br />
-
-[<img align="left" alt="GitHub" src="https://raw.githubusercontent.com/officersiam/officersiam/master/watermark5.png" />][website]
-
 [website]: https://biratbazar.com
-[facebook]: https://facebook.com/Hasheon
+[facebook]: https://facebook.com/biratbazarofficial
 [twitter]: https://twitter.com/OfficerSiam
-[youtube]: https://youtube.com/SiamAlMahmud
+[youtube]: https://youtube.com/@SiamAlMahmud
 [instagram]: https://instagram.com/OfficerSiam
 [linkedin]: https://linkedin.com/in/SiamAlMahmud
